@@ -1,0 +1,15 @@
+{
+  "originHash" : "c0b381f14234d6f6cc0e6ac26a813a235e4b5f9598a3de7ee5105c69e8958f4f",
+  "pins" : [
+    {
+      "identity" : "mosaicgrid",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hainayanda/MosaicGrid.git",
+      "state" : {
+        "revision" : "0429dafed5ec03383600e4b416fb53c2a3175ca1",
+        "version" : "1.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
